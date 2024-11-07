@@ -1,6 +1,7 @@
 Download the Llama 2 Model:
 
-llama-2-7b-chat.ggmlv3.q4_0.bin
+# based on your system configuration you can use 2bit, 4bit, 6bit model 
+llama-2-7b-chat.ggmlv3.q4_0.bin 
 
 
 From the following link:
